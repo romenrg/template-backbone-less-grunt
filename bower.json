@@ -1,0 +1,8 @@
+{
+  "name": "frontendprojecttemplate",
+  "version": "1.0.0",
+  "description": "This is a project to set up a template for front-end development based on Backbone, Less, Bootstrap, Mocha and Phantom",
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
