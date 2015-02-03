@@ -1,0 +1,10 @@
+{
+  "name": "frontendprojecttemplate",
+  "version": "1.0.0",
+  "description": "This is a project to set up a template for front-end development based on Backbone, Less, Bootstrap, Mocha and Phantom",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-less": "^1.0.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
