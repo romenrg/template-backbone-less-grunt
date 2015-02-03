@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This is a project to set up a template for front-end development based on Backbone, Less, Bootstrap, Mocha and Phantom",
   "dependencies": {
-    "bootstrap": "~3.3.2"
+    "bootstrap": "~3.3.2",
+    "backbone": "~1.1.2",
+    "requirejs": "~2.1.15",
+    "underscore": "~1.7.0",
+    "jquery": "~2.1.3"
   }
 }
